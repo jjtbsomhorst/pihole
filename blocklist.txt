@@ -1,0 +1,44 @@
+#------------------------------------[UPDATE]--------------------------------------
+# Title: Jeroen's blocklist
+# Description: sole purpose of this list is to have a way to keep the blacklist
+# between two pihole's updated without having to copy / past the blacklist entries
+#------------------------------------[FILTERS]-------------------------------------
+
+0.0.0.0 xb.lc
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 outlook.office365.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 scontent-ams4-1.cdninstagram.com
+0.0.0.0 r1---sn-5hne6nsy.gvt1.com
+0.0.0.0 r2---sn-5hnekn7l.googlevideo.com
+0.0.0.0 lh6.googleusercontent.com
+0.0.0.0 r2---sn-5hne6nsz.googlevideo.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 i9.ytimg.com
+0.0.0.0 assets.msn.com
+0.0.0.0 cdn.content.prod.cms.msn.com
+0.0.0.0 p29-buy.itunes-apple.com.akadns.net
+0.0.0.0 xp.itunes-apple.com.akadns.net
+0.0.0.0 sentry.stripchat.com
+0.0.0.0 img.stripst.com
+0.0.0.0 wpad.home
+0.0.0.0 nl.rdx2.lgtvsdp.com
+0.0.0.0 gameplayapi.intel.com
+0.0.0.0 gameplay.intel.com
+0.0.0.0 title.mgt.xboxlive.com
+0.0.0.0 user.auth.xboxlive.com
+0.0.0.0 title.auth.xboxlive.com
+0.0.0.0 6fbcad306a8846a7c337dbbfdbcd7fe6.safeframe.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 cdn.pendo.io
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 scontent-amt2-1.cdninstagram.com
+0.0.0.0 chdqwrkfys
+0.0.0.0 dioymairjwuoyj
+0.0.0.0 ads.plexi.nl
+0.0.0.0 lh5.googleusercontent.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 lp.surveymonkey.com
+0.0.0.0 lp.usabilla.com
+0.0.0.0 go.usabilla.com
