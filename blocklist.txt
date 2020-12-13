@@ -47,3 +47,4 @@
 0.0.0.0 adscience-nocookie.nl
 0.0.0.0 atconnect.npo.nl
 0.0.0.0 w.usabilla.com
+0.0.0.0 nl-lgtvsdp-com.aws-prd.net
