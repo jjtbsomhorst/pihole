@@ -50,3 +50,5 @@
 0.0.0.0 nl-lgtvsdp-com.aws-prd.net
 0.0.0.0 www.lgappstv.com
 0.0.0.0 www.illumeably.com/
+0.0.0.0 tentacles.smartocto.com
+0.0.0.0 www.smartocto.com
