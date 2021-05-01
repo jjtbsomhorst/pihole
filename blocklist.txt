@@ -54,3 +54,4 @@
 0.0.0.0 www.smartocto.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 resizer.reclamefolder.org
+0.0.0.0 api.smartocto.com
