@@ -55,3 +55,9 @@
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 resizer.reclamefolder.org
 0.0.0.0 api.smartocto.com
+0.0.0.0 53.com
+0.0.0.0 www.53.com
+0.0.0.0 onlinebanking.53.com	
+0.0.0.0 citigroup.com	
+0.0.0.0 www.citigroup.com	
+0.0.0.0 cdn.hypemarks.com	
