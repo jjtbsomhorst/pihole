@@ -57,7 +57,8 @@
 0.0.0.0 api.smartocto.com
 0.0.0.0 53.com
 0.0.0.0 www.53.com
-0.0.0.0 onlinebanking.53.com	
-0.0.0.0 citigroup.com	
-0.0.0.0 www.citigroup.com	
-0.0.0.0 cdn.hypemarks.com	
+0.0.0.0 onlinebanking.53.com
+0.0.0.0 citigroup.com
+0.0.0.0 www.citigroup.com
+0.0.0.0 cdn.hypemarks.com
+0.0.0.0 bam.nr-data.net
