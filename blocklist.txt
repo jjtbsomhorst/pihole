@@ -62,3 +62,8 @@
 0.0.0.0 www.citigroup.com
 0.0.0.0 cdn.hypemarks.com
 0.0.0.0 bam.nr-data.net
+0.0.0.0 policy.system-usage-report.intel.com
+0.0.0.0 o430870.ingest.sentry.io
+0.0.0.0 mtalk.google.com
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 sentry.io
