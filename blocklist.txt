@@ -68,3 +68,4 @@
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 sentry.io
 0.0.0.0 fanlink.to
+0.0.0.0 alt1-mtalk.google.com
