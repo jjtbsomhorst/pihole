@@ -70,3 +70,7 @@
 0.0.0.0 fanlink.to
 0.0.0.0 alt1-mtalk.google.com
 0.0.0.0 counter.blakedrumm.com
+0.0.0.0 ads.pexi.nl	
+0.0.0.0 track.pexi.nl
+0.0.0.0 bidding.pexi.nl
+0.0.0.0 static.pexi.nl
