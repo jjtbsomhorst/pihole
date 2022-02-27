@@ -74,3 +74,7 @@
 0.0.0.0 track.pexi.nl
 0.0.0.0 bidding.pexi.nl
 0.0.0.0 static.pexi.nl
+0.0.0.0 nl.xhamsterlive.com
+0.0.0.0 img-us.stripst.com
+0.0.0.0 stripst.com
+0.0.0.0 c.stripst.com
