@@ -82,3 +82,8 @@
 0.0.0.0 www.optoutadvertising.com
 0.0.0.0 cdn.optoutadvertising.com
 0.0.0.0 adserving.optoutadvertising.com	
+0.0.0.0 d2culxnxbccemt.cloudfront.net
+0.0.0.0 d1rx8vrt2hn1hc.cloudfront.net	
+0.0.0.0 d12xoj7p9moygp.cloudfront.net
+0.0.0.0 d3t3ozftmdmh3i.cloudfront.net
+0.0.0.0 d2culxnxbccemt.cloudfront.net
