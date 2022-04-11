@@ -87,3 +87,4 @@
 0.0.0.0 d12xoj7p9moygp.cloudfront.net
 0.0.0.0 d3t3ozftmdmh3i.cloudfront.net
 0.0.0.0 d2culxnxbccemt.cloudfront.net
+0.0.0.0 www.tittydrop.com
