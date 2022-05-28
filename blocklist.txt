@@ -88,3 +88,4 @@
 0.0.0.0 d3t3ozftmdmh3i.cloudfront.net
 0.0.0.0 d2culxnxbccemt.cloudfront.net
 0.0.0.0 www.tittydrop.com
+0.0.0.0 cdn.optoutadvertising.com
