@@ -91,3 +91,8 @@
 0.0.0.0 cdn.optoutadvertising.com
 0.0.0.0 aa.tweakers.nl
 0.0.0.0 ab.tweakers.nl
+0.0.0.0 ingest.sentry.io
+0.0.0.0 api.smartocto.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 nl.xhamsterlive.com
+0.0.0.0 tittydrop.com	
