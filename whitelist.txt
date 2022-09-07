@@ -40,3 +40,4 @@ pps.whatsapp.net
 faq.whatsapp.com
 mmx-ds.cdn.whatsapp.net	
 cdn.cookielaw.org	
+web.whatsapp.com
