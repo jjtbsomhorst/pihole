@@ -96,3 +96,4 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 nl.xhamsterlive.com
 0.0.0.0 tittydrop.com	
+0.0.0.0 partner.bol.com
