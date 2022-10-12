@@ -99,3 +99,4 @@
 0.0.0.0 partner.bol.com
 0.0.0.0 m.media-amazon.com
 0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 content2.gamer.nl
