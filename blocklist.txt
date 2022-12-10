@@ -89,8 +89,6 @@
 0.0.0.0 d2culxnxbccemt.cloudfront.net
 0.0.0.0 www.tittydrop.com
 0.0.0.0 cdn.optoutadvertising.com
-0.0.0.0 aa.tweakers.nl
-0.0.0.0 ab.tweakers.nl
 0.0.0.0 ingest.sentry.io
 0.0.0.0 api.smartocto.com
 0.0.0.0 settings.crashlytics.com
