@@ -98,3 +98,4 @@
 0.0.0.0 m.media-amazon.com
 0.0.0.0 content2.gamer.nl
 0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 sp-20191001060653164200000004-710657394.eu-west-1.elb.amazonaws.com
