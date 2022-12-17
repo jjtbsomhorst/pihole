@@ -97,3 +97,4 @@
 0.0.0.0 partner.bol.com
 0.0.0.0 m.media-amazon.com
 0.0.0.0 content2.gamer.nl
+0.0.0.0 ocsp.sca1b.amazontrust.com
