@@ -100,3 +100,6 @@
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 sp-20191001060653164200000004-710657394.eu-west-1.elb.amazonaws.com
 0.0.0.0 ingestion.contentinsights.com
+0.0.0.0 collector-905.tvsquared.com
+0.0.0.0 api.sprig.com
+0.0.0.0 opt.objectiveportal.com
