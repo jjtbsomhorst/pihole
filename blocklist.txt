@@ -104,3 +104,4 @@
 0.0.0.0 api.sprig.com
 0.0.0.0 opt.objectiveportal.com
 0.0.0.0 o314617.ingest.sentry.io
+0.0.0.0 adserving.optoutadvertising.com
