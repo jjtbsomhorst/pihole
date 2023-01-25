@@ -107,3 +107,4 @@
 0.0.0.0 adserving.optoutadvertising.com
 0.0.0.0 doh.dns.apple.com
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
+0.0.0.0 advertising-module.api.dpgmedia.cloud
