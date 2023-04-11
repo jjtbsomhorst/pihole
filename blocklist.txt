@@ -112,6 +112,7 @@
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 analytics.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
