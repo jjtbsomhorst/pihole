@@ -41,3 +41,4 @@ faq.whatsapp.com
 mmx-ds.cdn.whatsapp.net	
 cdn.cookielaw.org	
 web.whatsapp.com
+yt3.ggpht.com
