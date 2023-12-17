@@ -272,3 +272,4 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 config.ads.vungle.com
+0.0.0.0 ingestion.smartocto.com
