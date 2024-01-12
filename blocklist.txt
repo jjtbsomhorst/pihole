@@ -277,3 +277,4 @@
 0.0.0.0 edge.microsoft.com
 0.0.0.0 hits.seeyoufarm.com
 0.0.0.0 macro.adnami.io
+0.0.0.0 external.simpleanalytics.com
